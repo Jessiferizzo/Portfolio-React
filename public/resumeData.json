@@ -1,184 +1,134 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Jessica Sisavath",
+    "homepage": "https://github.com/Jessiferizzo/React-Portfolio",
+    "description":"Hi, I'm Jessica, a full-stack web developer, a speech pathologist, creative thinker/tinkerer, writer, and all around animal lover",
+    "image":"pixtulum.jpeg",
+    "bio":"Full-stack web developer with a background in psychology/English and a Masters in Speech Pathology with a recently earned certificate in full stack development from Rice University Coding Bootcamp. Resourceful and innovative out-of-the-box thinker and tinkerer; passionate about developing intuitive and aesthetically appealing apps with mobile-first design and development. Strengths in critical thinking and problem solving skills, creativity, team collaborations, thriving in fast-paced environments, and building projects from ideation to full execution.",
+    "contactmessage":"Please contact me by email or phone for all inquires and collaborations",
+    "email": "jsisavath2@gmail.com",
+    "phone": "281-513-3883",
+    "github":"https://github.com/Jessiferizzo",
+    "project":"https://github.com/Jessiferizzo/React-Portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"3616 Richmond Ave., Apt 1408",
+      "city":"Houston",
+      "state":"TX",
+      "zip": "77046"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/1GQ-RrFl00PrrwVaxan6kHqSgy5ISQaAE2cpXVwSFEQE/edit?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jessicasisavathbesthire259297/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Jessiferizzo",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I really enjoy fine-tuning my front-end skills in React, HTML, CSS, and UX design and analyzing and running databases in mySQL.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Rice University - Full Stack Developer Coding Bootcamp",
+        "degree":"Rice University Full Stack Web Development Certificate",
+        "graduated":"Expected August 4 2022",
+        "description":"A 24-week intensive full stack development program focused on gaining in-demand skills through a market-driven curriculum: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git and more."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The University of Texas at Austin at Austin, TX",
+        "degree":"Master’s Degree, Speech Language Pathology, Dual Degrees Bachelor of Arts, English and Bachelor of Science, Psychology",
+        "graduated":"May 2014, May 2010",
+        "description":"Adept in assessment/diagnosis of communication science disorders, research and analysis experience, writing consultant experience"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Memorial Hermann Hospital/Encompass Health Rehab",
+        "title":"Speech Pathologist PRN",
+        "years":"Jan 2017 - Present",
+        "description":"Treats and rehabilitates patients for speech therapy deficits expressive and receptive language, swallowing, and neurological disorders in rehab hospitals."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Rice University Coding Bootcamp",
+        "title":"dedicated student",
+        "years":"6 months",
+        "description":"20 hrs/week online course work program that runs for 24-weeks to give students a strong foundation in full stack development"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"Front-end: HTML/HTML5, CSS/CSS3, JavaScript, jQuery, JSON, React, Bootstrap, Bulma"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"UX/UI Design: Figma, Adobe Illustrator, Adobe Lightroom, user research and analysis experience, wireframing experience, responsive design experience"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Back-end coding languages/ web development experience: MongoDB, Express, React, Node JS, (MERN stack), GitHub, MVC, Unit Testing, Heroku, ORM"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"RESTful API, AJAX methods"
       },
       {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"SQL relational database,NoSQL databases"
       }
+  
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Habitual Habit Tracker App",
+        "category":"Group project:A visual system for tracking daily habits built with mySQL and Bulma",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://habitualtracker.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Password Generator",
+        "category":"A javascript app that generates a randomized password",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://jessiferizzo.github.io/Javascript-Password-Generator/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Run Buddy",
+        "category":"A site to drive membership interest in a gym",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://jessiferizzo.github.io/run-buddy/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"The Occasional Movie",
+        "category":"Group Project: A site to pick a movie by select occasions built with IMDB API",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://rjimeneztech.github.io/MovieFinder/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Work Day Scheduler",
+        "category":"An hourly time-blocked scheduling app for work exploring Moment.js",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://jessiferizzo.github.io/Work-Day-Calendar/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Note Taker",
+        "category":"An app to input and modify quick notes using NodeJS and Express",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://notetakerexpressjess.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
+        "title":"Pizza Maker",
+        "category":"Interactive app to customize personal pizzas using MongoDB and Mongoose",
+        "image":"07.jpg",
+        "url":"https://notetakerexpressjess.herokuapp.com/"
+      }, 
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Photo Hunt",
+        "category":"A photo gallery site built with React",
+        "image":"08.jpg",
+        "url":"https://jessiferizzo.github.io/photo-port/"
       }
     ]
   }
