@@ -1,20 +1,24 @@
-# React Nice Resume :page_with_curl:
+# My React Portfolio
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+## Description
+A web developer portfolio exploring React components and effects like particle.js, react-reveal.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+## Table of Contents
+  * [Site](#site)
+  * [Questions](#questions)
+  * [Installation](#installation)
+  * [Contributions](#contributions)
+  * [License](#license)
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+## Site
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+[Portfolio Github](https://github.com/Jessiferizzo/Portfolio-React.git)
 
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+[Deployed Portfolio Site]( https://jessiferizzo.github.io/Portfolio-React/)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+![portfolio screenshot](./public/images/sceenshot.jpg)
 
-# Run Project
+# Installation
 ### 1. Clone the project
 
 ### 2. Run the project
@@ -27,3 +31,24 @@ npm start
 ```shell
 npm run build
 ```
+
+## Authors
+
+Jessica Sisavath
+
+## Contributions
+I sincerely want to thank these two React gurus, resume template courtesy of [Nordicgiant2](https://github.com/nordicgiant2/react-nice-resume) and [tbakerx](https://github.com/tbakerx/react-resume-template).
+
+## Questions
+  Please contact me using the following links:
+
+  :octocat: Github [Jessiferizzo](https://github.com/jessiferizzo) 
+
+  ✉️ [My Email](mailto:jsisavath2@gmail.com)
+
+
+## License
+
+This project is licensed under the MIT License
+
+
