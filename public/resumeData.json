@@ -9,7 +9,7 @@
     "email": "jsisavath2@gmail.com",
     "phone": "281-513-3883",
     "github":"https://github.com/Jessiferizzo",
-    "project":"https://github.com/Jessiferizzo/React-Portfolio",
+    "project":"https://github.com/Jessiferizzo/Portfolio-React",
     "address":{
       "street":"3616 Richmond Ave., Apt 1408",
       "city":"Houston",
@@ -17,7 +17,7 @@
       "zip": "77046"
     },
     "website": "",
-    "resumedownload":"https://docs.google.com/document/d/1GQ-RrFl00PrrwVaxan6kHqSgy5ISQaAE2cpXVwSFEQE/edit?usp=sharing",
+    "resumedownload":"resume.pdf",
     "social":[
       {
         "name":"linkedin",
