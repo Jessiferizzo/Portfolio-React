@@ -5,13 +5,12 @@
     "description":"Hi, I'm Jessica, a full-stack web developer, a speech pathologist, creative thinker/tinkerer, writer, and all around animal lover",
     "image":"pixtulum.jpeg",
     "bio":"Full-stack web developer with a background in psychology/English and a Masters in Speech Pathology with a recently earned certificate in full stack development from Rice University Coding Bootcamp. Resourceful and innovative out-of-the-box thinker and tinkerer; passionate about developing intuitive and aesthetically appealing apps with mobile-first design and development. Strengths in critical thinking and problem solving skills, creativity, team collaborations, thriving in fast-paced environments, and building projects from ideation to full execution.",
-    "contactmessage":"Please contact me by email or phone for all inquires and collaborations",
-    "email": "jsisavath2@gmail.com",
+    "contactmessage":"*Contact Form in Development*-Please contact me by standard email or phone, would love to chat!",
     "phone": "281-513-3883",
     "github":"https://github.com/Jessiferizzo",
     "project":"https://github.com/Jessiferizzo/Portfolio-React",
     "address":{
-      "street":"3616 Richmond Ave., Apt 1408",
+      "street":"",
       "city":"Houston",
       "state":"TX",
       "zip": "77046"
@@ -129,6 +128,12 @@
         "category":"A photo gallery site built with React",
         "image":"08.jpg",
         "url":"https://jessiferizzo.github.io/photo-port/"
+      },
+      {
+        "title":"Sell Your Junk",
+        "category":"Group Project: An e-commerce site built with MERN stack, React, Material UI and GraphQL",
+        "image":"09.jpg",
+        "url":"https://sell-your-junk.herokuapp.com/"
       }
     ]
   }
