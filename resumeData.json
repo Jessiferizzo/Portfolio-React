@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Jessica Sisavath",
+    "homepage": "https://github.com/Jessiferizzo/React-Portfolio",
+    "description":"Hi, I'm Jessica, a full-stack web developer, a speech pathologist, creative thinker/tinkerer, writer, and all around animal lover",
+    "image":"pixtulum.jpeg",
+    "bio":"Full-stack web developer with a background in psychology/English and a Masters in Speech Pathology with a recently earned certificate in full stack development from Rice University Coding Bootcamp. Resourceful and innovative out-of-the-box thinker and tinkerer; passionate about developing intuitive and aesthetically appealing apps with mobile-first design and development. Strengths in critical thinking and problem solving skills, creativity, team collaborations, thriving in fast-paced environments, and building projects from ideation to full execution.",
+    "contactmessage":"*Contact Form in Development*-Please contact me by standard email or phone, would love to chat!",
+    "phone": "281-513-3883",
+    "github":"https://github.com/Jessiferizzo",
+    "project":"https://github.com/Jessiferizzo/Portfolio-React",
+    "address":{
+      "street":"",
+      "city":"Houston",
+      "state":"TX",
+      "zip": "77046"
+    },
+    "website": "",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jessicasisavathbesthire259297/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jessiferizzo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I really enjoy fine-tuning my front-end skills in React, HTML, CSS, and UX design and analyzing and running databases in mySQL.",
+    "education":[
+      {
+        "school":"Rice University - Full Stack Developer Coding Bootcamp",
+        "degree":"Rice University Full Stack Web Development Certificate",
+        "graduated":"Expected August 4 2022",
+        "description":"A 24-week intensive full stack development program focused on gaining in-demand skills through a market-driven curriculum: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git and more."
+      },
+      {
+        "school":"The University of Texas at Austin at Austin, TX",
+        "degree":"Master’s Degree, Speech Language Pathology, Dual Degrees Bachelor of Arts, English and Bachelor of Science, Psychology",
+        "graduated":"May 2014, May 2010",
+        "description":"Adept in assessment/diagnosis of communication science disorders, research and analysis experience, writing consultant experience"
+      }
+    ],
+    "work":[
+      {
+        "company":"Memorial Hermann Hospital/Encompass Health Rehab",
+        "title":"Speech Pathologist PRN",
+        "years":"Jan 2017 - Present",
+        "description":"Treats and rehabilitates patients for speech therapy deficits expressive and receptive language, swallowing, and neurological disorders in rehab hospitals."
+      },
+      {
+        "company":"Rice University Coding Bootcamp",
+        "title":"dedicated student",
+        "years":"6 months",
+        "description":"20 hrs/week online course work program that runs for 24-weeks to give students a strong foundation in full stack development"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Front-end: HTML/HTML5, CSS/CSS3, JavaScript, jQuery, JSON, React, Bootstrap, Bulma"
+      },
+      {
+        "name":"UX/UI Design: Figma, Adobe Illustrator, Adobe Lightroom, user research and analysis experience, wireframing experience, responsive design experience"
+      },
+      {
+        "name":"Back-end coding languages/ web development experience: MongoDB, Express, React, Node JS, (MERN stack), GitHub, MVC, Unit Testing, Heroku, ORM"
+      },
+      {
+        "name":"RESTful API, AJAX methods"
+      },
+      {
+        "name":"SQL relational database,NoSQL databases"
+      }
+  
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Habitual Habit Tracker App",
+        "category":"Group project:A visual system for tracking daily habits built with mySQL and Bulma",
+        "image":"01.jpg",
+        "url":"https://habitualtracker.herokuapp.com/"
+      },
+      {
+        "title":"Password Generator",
+        "category":"A javascript app that generates a randomized password",
+        "image":"02.jpg",
+        "url":"https://jessiferizzo.github.io/Javascript-Password-Generator/"
+      },
+      {
+        "title":"Run Buddy",
+        "category":"A site to drive membership interest in a gym",
+        "image":"03.jpg",
+        "url":"https://jessiferizzo.github.io/run-buddy/"
+      },
+      {
+        "title":"The Occasional Movie",
+        "category":"Group Project: A site to pick a movie by select occasions built with IMDB API",
+        "image":"04.jpg",
+        "url":"https://rjimeneztech.github.io/MovieFinder/"
+      },
+      {
+        "title":"Work Day Scheduler",
+        "category":"An hourly time-blocked scheduling app for work exploring Moment.js",
+        "image":"05.jpg",
+        "url":"https://jessiferizzo.github.io/Work-Day-Calendar/"
+      },
+      {
+        "title":"Note Taker",
+        "category":"An app to input and modify quick notes using NodeJS and Express",
+        "image":"06.jpg",
+        "url":"https://notetakerexpressjess.herokuapp.com/"
+      },
+      {
+        "title":"Pizza Maker",
+        "category":"Interactive app to customize personal pizzas using MongoDB and Mongoose",
+        "image":"07.jpg",
+        "url":"https://notetakerexpressjess.herokuapp.com/"
+      }, 
+      {
+        "title":"Photo Hunt",
+        "category":"A photo gallery site built with React",
+        "image":"08.jpg",
+        "url":"https://jessiferizzo.github.io/photo-port/"
+      },
+      {
+        "title":"Sell Your Junk",
+        "category":"Group Project: An e-commerce site built with MERN stack, React, Material UI and GraphQL",
+        "image":"09.jpg",
+        "url":"https://sell-your-junk.herokuapp.com/"
+      }
+    ]
+  }
+}
